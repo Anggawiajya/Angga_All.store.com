@@ -1,5 +1,5 @@
     body {
-      background-image: url('/store/asset/img/bg_1.jpeg');
+      background-image: url('asset/img/bg_1.jpeg');
       background-size: cover;
       background-position: center;
       display: flex;
